@@ -1,0 +1,3 @@
+# Next.js 15 App Crash with Unclear Error
+
+This repository demonstrates a bug in a Next.js 15 application where using a specific third-party library causes the app to crash with an unclear error message. The error is difficult to debug due to the lack of specific information in the error message. The solution involves identifying the conflicting library and updating it or finding a suitable alternative.  This repository contains files to reproduce the issue and demonstrate a solution.
